@@ -8,7 +8,7 @@ I am currently with the Hangzhou Institute, Xidian University. My research focus
 
 - 2020.09 ~ 2025.06, PhD Student, Electronic Engineering, Xidian University
   - Lab: https://see.xidian.edu.cn/vipsl/index.html
-  - Supervisor: Xinbo Gao
+  - Supervisor: Prof. Xinbo Gao
   - Research Topic: visual perception and understanding, image quality assessment
 
 <!--
