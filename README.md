@@ -2,7 +2,7 @@
 
 ### 🤞🏻 About Me
 
-I am currently with the Hangzhou Institute, Xidian University. My research focuses on visual perception and understanding, mainly on image quality assessment (IQA). I'm happy to share my latest work here and welcome discussions with others interested in this field.
+I am currently studying at Xidian University. My research focuses on visual perception and understanding, mainly on image quality assessment (IQA). I'm happy to share my latest work here and welcome discussions with others interested in this field.
 
 ### 👩🏻‍🎓 Experience
 
